@@ -7,7 +7,7 @@ from pytgcalls.exceptions import NoActiveGroupCall
 
 import config
 from VIPMUSIC import Apple, Resso, SoundCloud, Spotify, Telegram, YouTube, app
-from VIPMUSIC.core.call import PURVI
+from VIPMUSIC.core.call import VIP
 from VIPMUSIC.utils import seconds_to_min, time_to_seconds
 from VIPMUSIC.utils.channelplay import get_channeplayCB
 from VIPMUSIC.utils.decorators.language import languageCB
