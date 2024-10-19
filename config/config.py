@@ -106,7 +106,7 @@ SUPPORT_CHANNEL = getenv(
 )  # Example:- https://t.me/VIP_CREATORS
 SUPPORT_GROUP = getenv(
     "SUPPORT_GROUP", "https://t.me/TheBAAPx"
-)  # Example:- https://t.me/TG_FRIENDSS
+)  # Example:- https://t.me/
 
 SUPPORT_CHAT = getenv(
     "SUPPORT_GROUP", "https://t.me/TheBAAPx"
